@@ -22,7 +22,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na FICR, atualmente em resid
 ## 🚀 Projetos em Destaque
 
 ### SGPA — Sistema de Gestão de Planos de Ação
-> Sistema web desenvolvido para a **Prefeitura de Goiana-PE** dentro do Programa de Residência em Software e IA da FICR.
+> 💡 Sistema utilizado para gerenciar planos de ação com autenticação, controle de acesso e integração completa entre frontend e backend da **Prefeitura de Goiana-PE** dentro do Programa de Residência em Software e IA da FICR e o Porto Digital.
 
 - Frontend com React + TypeScript + Vite
 - Autenticação JWT e navegação por perfil de acesso (role-based routing)
