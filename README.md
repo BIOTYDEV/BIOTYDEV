@@ -1,104 +1,56 @@
-# 👋 Olá, eu sou Luis Henrique
+# Luis Henrique Sales Chaves
 
-💻 Desenvolvedor Fullstack com foco em React, Node.js e aplicações com Inteligência Artificial
-📍 Recife - PE, Brasil
+**Desenvolvedor Front-End Júnior** · Recife, PE — Brasil
 
-Sou apaixonado por criar interfaces modernas e sistemas completos que realmente resolvem problemas reais.
-Tenho experiência com desenvolvimento de aplicações fullstack, integração com APIs e construção de soluções com IA.
+Estudante de Análise e Desenvolvimento de Sistemas na FICR, atualmente em residência de software e IA desenvolvendo sistemas reais para o setor público. Apaixonado por interfaces bem construídas e experiências que fazem sentido para quem usa.
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🛠️ Stack Principal
 
-### 👕 Armário Virtual com IA
-
-Aplicação que permite experimentar roupas virtualmente utilizando inteligência artificial.
-
-🔗 Acessar aplicação: (adicione o link aqui)
-🔗 Ver código: (adicione o link aqui)
-
-### 🧠 Diferenciais técnicos:
-
-* Integração com IA generativa
-* Processamento de imagens
-* Interface interativa para experiência do usuário
-* Arquitetura fullstack (frontend + backend)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📌 Outros Projetos
+## 🚀 Projetos em Destaque
 
-### 📊 SGPA — Sistema de Gestão de Planos de Ação
+### SGPA — Sistema de Gestão de Planos de Ação
+> 💡 Sistema utilizado para gerenciar planos de ação com autenticação, controle de acesso e integração completa entre frontend e backend da **Prefeitura de Goiana-PE** dentro do Programa de Residência em Software e IA da FICR e o Porto Digital.
 
-Sistema web desenvolvido para gerenciamento de planos de ação com autenticação e controle de acesso.
-
-🔗 Frontend: (link)
-🔗 Backend: (link)
-
-### ⚙️ Funcionalidades:
-
-* Autenticação com JWT
-* Controle de acesso (roles)
-* CRUD completo
-* Integração entre frontend e backend
+- Frontend com React + TypeScript + Vite
+- Autenticação JWT e navegação por perfil de acesso (role-based routing)
+- Backend em Node.js + Fastify + Prisma + PostgreSQL
+- Metodologia ágil (Scrum) com entregas reais ao cliente
 
 ---
 
-## 🧰 Stack Principal
+### Armário Virtual — Virtual Try-On com IA
+> Aplicação de prova virtual de roupas com inteligência artificial, desenvolvida em equipe no mesmo programa de residência.
 
-### Frontend
-
-* React
-* Next.js
-* TypeScript
-* Vite
-
-### Backend
-
-* Node.js
-* NestJS
-* Express
-* Prisma ORM
-
-### Banco de Dados
-
-* PostgreSQL
-
-### Outros
-
-* Docker
-* Git
+- PWA com React + Vite + TypeScript + Capacitor
+- APK gerado e instalado em dispositivo Android
+- Integração com modelos de IA generativa
+- App de lojistas em Expo SDK 54
 
 ---
 
-## 🧠 Conhecimentos Técnicos
+## 📚 Formação & Certificações
 
-* Arquitetura em camadas (Controller, Service, Repository)
-* Integração com APIs externas
-* Autenticação e segurança (JWT, bcrypt)
-* Consumo e integração com IA
-* Boas práticas de organização de código
-
----
-
-## 📈 Atualmente estudando
-
-* Testes automatizados (Jest, React Testing Library)
-* Arquitetura de software
-* Performance em aplicações web
-* Boas práticas de backend escalável
+- 🎓 ADS — Faculdade Católica Imaculada Conceição do Recife (FICR) · em andamento
+- ⚡ Trilha React completa — Rocketseat (React, Hooks, Next.js, TypeScript, Testes · 31h)
+- 🐳 Ciclo TakeOff FICR 2026.1 — DevOps, Docker, IA, Prompt Engineering
+- ☕ Microsserviços com Spring Boot — QUALIFICR / FICR
 
 ---
 
-## 📫 Contato
+## 📬 Contato
 
-* 💼 LinkedIn: (adicione aqui)
-* 📧 Email: (adicione aqui)
-
----
-
-## ⚡ Objetivo
-
-Busco oportunidade como desenvolvedor júnior para aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e contribuir com soluções que gerem impacto.
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-7952a3a8/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luishenrique.dev1@gmail.com)
