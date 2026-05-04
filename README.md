@@ -52,6 +52,10 @@
 ### 📊 Performance & Insights (GitHub)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BIOTYDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIOTYDEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" />
+  <a href="https://github.com/BIOTYDEV">
+    <img src="https://github-readme-stats.vercel.app/api?username=BIOTYDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/BIOTYDEV">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIOTYDEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" />
+  </a>
 </div>
