@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x250/0d1117/00ffff?text=+[https://github.com/BIOTYDEV/meus_uploads/blob/main/banner-perfil.png?raw=true]+" width="100%" alt="Banner BIOTYDEV"/>
+  <img src="https://via.placeholder.com/1000x250/0d1117/00ffff?text=+https://github.com/BIOTYDEV/meus_uploads/blob/main/banner-perfil.png?raw=true+" width="100%" alt="Banner BIOTYDEV"/>
 
   <br/>
   <br/>
