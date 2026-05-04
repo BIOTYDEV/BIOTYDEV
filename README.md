@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x250/0d1117/00ffff?text=+[[INSERIR+BANNER+AQUI](https://media.licdn.com/dms/image/v2/D4D16AQH8_sa0uo9ktg/profile-displaybackgroundimage-shrink_200_800/B4DZ3xeWXrGwAU-/0/1777872764426?e=1779321600&v=beta&t=0tm44WqWr_yHLVwwwZxFfo2MSvMAvDiRr9LYtDKTN4A)]+" width="100%" alt="Banner BIOTYDEV"/>
+  <img src="https://via.placeholder.com/1000x250/0d1117/00ffff?text=+[https://github.com/BIOTYDEV/meus_uploads/blob/main/banner-perfil.png?raw=true]+" width="100%" alt="Banner BIOTYDEV"/>
 
   <br/>
   <br/>
