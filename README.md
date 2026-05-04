@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x250/0d1117/00ffff?text=+https://github.com/BIOTYDEV/meus_uploads/blob/main/banner-perfil.png?raw=true+" width="100%" alt="Banner BIOTYDEV"/>
+  <img src="https://raw.githubusercontent.com/BIOTYDEV/meus_uploads/refs/heads/main/banner-perfil.png?token=GHSAT0AAAAAADXECAH24GWO56ZVIFF2A6JE2PYIQKQ" width="100%" alt="Banner BIOTYDEV"/>
 
   <br/>
   <br/>
@@ -7,7 +7,7 @@
   <h3>"No desenvolvimento, não existe versão definitiva. A carreira é um processo de deploy contínuo: sempre em execução, sempre evoluindo."</h3>
   
   <p>
-    Desenvolvedor Front-End & Foco em UI/UX | Automação e IA | ADS FICR
+    <strong>Desenvolvedor Front-End & UI/UX | Especialista em Automação e IA | ADS FICR</strong>
   </p>
 </div>
 
@@ -26,30 +26,30 @@
 
 <br/>
 
-### 🚀 Projetos em Destaque e Arquiteturas
+### 🚀 Projetos Estratégicos & Arquitetura de Software
 
-#### 🏛️ SGPA - Sistema de Gestão de Planos de Ação (Governo)
-> Aplicação full-stack desenvolvida sob metodologia ágil (Scrum) para a Prefeitura de Goiana-PE, durante a Residência de Software da FICR/Porto Digital. Entregas reais ao cliente focadas em governança.
-* **Front-End:** React, TypeScript, Vite. Autenticação JWT e roteamento baseado em permissões (role-based routing).
-* **Back-End:** Node.js, Fastify, Prisma, PostgreSQL.
+#### 🏛️ SGPA - Gestão de Planos de Ação (Governo)
+> Sistema robusto para a Prefeitura de Goiana-PE, desenvolvido sob metodologia ágil (Scrum) na Residência de Software FICR/Porto Digital.
+* **Front-End:** React, TypeScript, Vite. Implementação de navegação baseada em permissões (RBAC) e autenticação segura.
+* **Back-End:** Node.js, Fastify, Prisma e PostgreSQL.
 
-#### 🤖 EduMentor AI & Orquestração Multi-Agentes
-> Arquitetura de sistema projetada para diagnósticos educacionais utilizando inteligência artificial.
-* **Engenharia de Prompt & Lógica:** Estruturação de papéis de agentes interdependentes (Coordenador Pedagógico, Tutor de Conteúdo, Agente Diagnóstico) para interação e análise estruturada de dados.
+#### 🤖 EduMentor AI - Orquestração Multi-Agentes
+> Arquitetura avançada de IA para diagnóstico educacional. 
+* **Lógica de Sistemas:** Engenharia de prompt aplicada à coordenação de múltiplos agentes inteligentes interdependentes para análise de dados estruturados.
 
-#### ⚙️ Automação e Integração (WhatsApp Bots)
-> Desenvolvimento de bases modulares para automação de atendimento corporativo.
-* **Stack:** JavaScript/Node.js com a biblioteca `whatsapp-web.js`.
-* **Infraestrutura:** Script estruturado com variáveis de ambiente para fácil manutenção, focado em escalabilidade e deploy em servidores VPS.
+#### ⚙️ Automação de Fluxos (WhatsApp Modular Bots)
+> Desenvolvimento de bases escaláveis para automação de atendimento corporativo.
+* **Stack:** Node.js e `whatsapp-web.js`.
+* **Diferencial:** Arquitetura focada em variáveis de ambiente e segurança de dados, preparada para deploy em ambientes VPS.
 
-#### 👕 Armário Virtual - Try-On com IA
-> PWA (Progressive Web App) desenvolvido para integração com IA generativa no varejo.
-* **Stack:** React, Vite, TypeScript, Capacitor, App de lojistas em Expo SDK 54.
-* **Resultados:** Aplicação web encapsulada e gerada como APK nativo para instalação em dispositivos Android.
+#### 👕 Armário Virtual - PWA com IA Generativa
+> Aplicação de varejo com foco em experiência do usuário (UX) e inovação.
+* **Stack:** React, Vite, TypeScript e Capacitor.
+* **Engenharia:** Conversão de interface web em aplicação nativa Android via APK.
 
 ---
 
-### 📊 Estatísticas (GitHub)
+### 📊 Performance & Insights (GitHub)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BIOTYDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub" />
