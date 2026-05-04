@@ -1,56 +1,57 @@
-# Luis Henrique Sales Chaves
+<div align="center">
+  <img src="https://via.placeholder.com/1000x250/0d1117/00ffff?text=+[[INSERIR+BANNER+AQUI](https://media.licdn.com/dms/image/v2/D4D16AQH8_sa0uo9ktg/profile-displaybackgroundimage-shrink_200_800/B4DZ3xeWXrGwAU-/0/1777872764426?e=1779321600&v=beta&t=0tm44WqWr_yHLVwwwZxFfo2MSvMAvDiRr9LYtDKTN4A)]+" width="100%" alt="Banner BIOTYDEV"/>
 
-**Desenvolvedor Front-End Júnior** · Recife, PE — Brasil
+  <br/>
+  <br/>
 
-Estudante de Análise e Desenvolvimento de Sistemas na FICR, atualmente em residência de software e IA desenvolvendo sistemas reais para o setor público. Apaixonado por interfaces bem construídas e experiências que fazem sentido para quem usa.
-
----
-
-## 🛠️ Stack Principal
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  <h3>"No desenvolvimento, não existe versão definitiva. A carreira é um processo de deploy contínuo: sempre em execução, sempre evoluindo."</h3>
+  
+  <p>
+    Desenvolvedor Front-End & Foco em UI/UX | Automação e IA | ADS FICR
+  </p>
+</div>
 
 ---
 
-## 🚀 Projetos em Destaque
+### 🛠️ Tech Stack Principal
 
-### SGPA — Sistema de Gestão de Planos de Ação
-> 💡 Sistema utilizado para gerenciar planos de ação com autenticação, controle de acesso e integração completa entre frontend e backend da **Prefeitura de Goiana-PE** dentro do Programa de Residência em Software e IA da FICR e o Porto Digital.
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=43853D" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
 
-- Frontend com React + TypeScript + Vite
-- Autenticação JWT e navegação por perfil de acesso (role-based routing)
-- Backend em Node.js + Fastify + Prisma + PostgreSQL
-- Metodologia ágil (Scrum) com entregas reais ao cliente
+<br/>
+
+### 🚀 Projetos em Destaque e Arquiteturas
+
+#### 🏛️ SGPA - Sistema de Gestão de Planos de Ação (Governo)
+> Aplicação full-stack desenvolvida sob metodologia ágil (Scrum) para a Prefeitura de Goiana-PE, durante a Residência de Software da FICR/Porto Digital. Entregas reais ao cliente focadas em governança.
+* **Front-End:** React, TypeScript, Vite. Autenticação JWT e roteamento baseado em permissões (role-based routing).
+* **Back-End:** Node.js, Fastify, Prisma, PostgreSQL.
+
+#### 🤖 EduMentor AI & Orquestração Multi-Agentes
+> Arquitetura de sistema projetada para diagnósticos educacionais utilizando inteligência artificial.
+* **Engenharia de Prompt & Lógica:** Estruturação de papéis de agentes interdependentes (Coordenador Pedagógico, Tutor de Conteúdo, Agente Diagnóstico) para interação e análise estruturada de dados.
+
+#### ⚙️ Automação e Integração (WhatsApp Bots)
+> Desenvolvimento de bases modulares para automação de atendimento corporativo.
+* **Stack:** JavaScript/Node.js com a biblioteca `whatsapp-web.js`.
+* **Infraestrutura:** Script estruturado com variáveis de ambiente para fácil manutenção, focado em escalabilidade e deploy em servidores VPS.
+
+#### 👕 Armário Virtual - Try-On com IA
+> PWA (Progressive Web App) desenvolvido para integração com IA generativa no varejo.
+* **Stack:** React, Vite, TypeScript, Capacitor, App de lojistas em Expo SDK 54.
+* **Resultados:** Aplicação web encapsulada e gerada como APK nativo para instalação em dispositivos Android.
 
 ---
 
-### Armário Virtual — Virtual Try-On com IA
-> Aplicação de prova virtual de roupas com inteligência artificial, desenvolvida em equipe no mesmo programa de residência.
+### 📊 Estatísticas (GitHub)
 
-- PWA com React + Vite + TypeScript + Capacitor
-- APK gerado e instalado em dispositivo Android
-- Integração com modelos de IA generativa
-- App de lojistas em Expo SDK 54
-
----
-
-## 📚 Formação & Certificações
-
-- 🎓 ADS — Faculdade Católica Imaculada Conceição do Recife (FICR) · em andamento
-- ⚡ Trilha React completa — Rocketseat (React, Hooks, Next.js, TypeScript, Testes · 31h)
-- 🐳 Ciclo TakeOff FICR 2026.1 — DevOps, Docker, IA, Prompt Engineering
-- ☕ Microsserviços com Spring Boot — QUALIFICR / FICR
-
----
-
-## 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-7952a3a8/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luishenrique.dev1@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BIOTYDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIOTYDEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" />
+</div>
