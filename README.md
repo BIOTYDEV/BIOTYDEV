@@ -48,11 +48,5 @@
 * **Stack:** React, Vite, TypeScript e Capacitor.
 * **Engenharia:** Conversão de interface web em aplicação nativa Android via APK.
 
----
 
-### 📊 Performance & Insights (GitHub)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BIOTYDEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIOTYDEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=1" alt="Linguagens mais usadas" />
-</p>
