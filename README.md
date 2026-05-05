@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BIOTYDEV/meus_uploads/refs/heads/main/banner-perfil.png?token=GHSAT0AAAAAADXECAH24GWO56ZVIFF2A6JE2PYIQKQ" width="100%" alt="Banner BIOTYDEV"/>
+  <img src="https://github.com/BIOTYDEV/meus_uploads/blob/main/banner-perfil.png?raw=true" width="100%" alt="Banner BIOTYDEV"/>
 
+  
   <br/>
   <br/>
 
